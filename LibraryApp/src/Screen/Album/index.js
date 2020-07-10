@@ -3,12 +3,12 @@ import {View, Text} from 'react-native';
 import styles from '@/Styles/common.js';
 
 
-const Home = () => {
+const Album = () => {
   return (
     <View style={styles.mainWrapper}>
-      <Text>Home Page</Text>
+      <Text>Album Page</Text>
     </View>
   );
 };
 
-export default Home;
+export default Album;
